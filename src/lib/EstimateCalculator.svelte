@@ -33,7 +33,6 @@
     qa_time = Math.round(qa_time * 10) / 10;
     base_time= Math.round(base_time * 10) / 10;
 
-
     total =  base_time + qa_time;
 
     total = Math.round(total * 10) /10;
