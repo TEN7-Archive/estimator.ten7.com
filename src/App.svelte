@@ -41,7 +41,7 @@
   <table class="table table-zebra w-full">
     <thead>
       <tr>
-        <th>ID</th>
+        <!-- <th>ID</th> -->
         <th>Title</th>
         <th>Estimate (hours)</th>
       </tr>
