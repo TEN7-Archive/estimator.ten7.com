@@ -16,6 +16,6 @@ To run locally:
 - Run `npm run dev` to start the local svelte server
 
 ## Deploying to Github Pages
-The app is available at estimator.ten7.com which is a static Github Pages site powered by the `gh-pages` branch. To deploy your app run:
-- npm run build
-- npm run deploy
+The app is available at [estimator.ten7.com](http://estimator.ten7.com) which is a static Github Pages site powered by the `gh-pages` branch. To deploy your app run:
+- Run `npm run build` to build the app locally, assets will be in `dist`
+- Run `npm run deploy` to deploy the app to the `gh-pages` branch visible at [estimator.ten7.com](http://estimator.ten7.com)
