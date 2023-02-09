@@ -14,3 +14,8 @@ To run locally:
 - Clone the repo
 - Run `npm install`
 - Run `npm run dev` to start the local svelte server
+
+## Deploying to Github Pages
+The app is available at estimator.ten7.com which is a static Github Pages site powered by the `gh-pages` branch. To deploy your app run:
+- npm run build
+- npm run deploy
